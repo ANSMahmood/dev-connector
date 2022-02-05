@@ -1,0 +1,6 @@
+{
+    "mongodb": "mongodb+srv://socialApp:socialApp@socialapp.d9lnd.mongodb.net/PractiseProject?retryWrites=true&w=majority",
+    "SecretToken": "MySecretToken",
+    "githubClientId": "429f708025f88a268c37",
+    "githubClientSecret": "0e4b184547d1bbaa32c3d4193890dd6409b200a5"
+}
